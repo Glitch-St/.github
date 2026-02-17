@@ -1,5 +1,5 @@
 # 📚 Glitch
-**Glitch** representa um coletivo composto por entusiastas dedicados à edição de conteúdo destinado à criação de servidores de roleplay para o jogo **Grand Theft Auto V**, utilizando a plataforma **FiveM**.
+A **Glitch** representa um coletivo composto por pessoas dedicadas à edição de conteúdo de servidores de roleplay para o jogo **Grand Theft Auto V**, utilizando a plataforma **FiveM**.
 
 -------
 
