@@ -4,4 +4,4 @@ A **Glitch** representa um coletivo composto por pessoas dedicadas à edição d
 -------
 
 ### 💬 Comunidade
-Maiores informações você só encontra em nosso **Discord**: [Clique aqui para entrar](https://discord.gg/vdDcDbpXna).
+Maiores informações você só encontra em nosso **Discord**: [Clique aqui para entrar](https://discord.gg/).
